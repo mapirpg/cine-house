@@ -86,5 +86,13 @@
     "atores": ["Ingrid", "Anna", "Luis"],
     "anoLancamento": 2013,
     "emCartaz": false
+  },
+  {
+    "codigo": 11,
+    "titulo": "Filme 8",
+    "duracao": 1.3,
+    "atores": ["Anderson", "Gabriel", "Fernando"],
+    "anoLancamento": 2021,
+    "emCartaz": true
   }
 ]
