@@ -38,7 +38,7 @@ function listarTodosOsFilmes(){
         } else {
             cartaz = 'não está em cartaz.'
         }
-        filmes[i] = (`${i} - Nome do Filme: ${filme[i][1]}, Duração de: ${filme[i][2]}h. Elenco: ${filme[i][3]}, ano de lançamento: ${filme[i][4]} e ${cartaz}`) 
+        filmes[i] = (`${i} - Nome do Filme: ${filme[i][1]}, Duração de: ${filme[i][2]}H. Elenco: ${filme[i][3]}, ano de lançamento: ${filme[i][4]} e ${cartaz}`) 
         } 
         filmes.shift()
         return filmes
