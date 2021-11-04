@@ -49,3 +49,6 @@ let listarFilmesdeLongaDuracao = catalogo => catalogo.filter(filme => filme.dura
 let listarFilmesEmCartaz = catalogo => catalogo.filter(filme => filme.emCartaz == true)
 
 console.log(listarTodosOsFilmes())
+
+
+

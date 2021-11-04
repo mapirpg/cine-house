@@ -1,0 +1,90 @@
+[
+  {
+    "codigo": 0,
+    "titulo": "Nome do Filme",
+    "duracao": 0,
+    "atores": [ "Nome 1", "Nome 2", "Nome 3" ],
+    "anoDeLancamento": 0,
+    "emCartaz": true
+  },
+  {
+    "codigo": 1,
+    "titulo": "Senhor dos Aneis",
+    "duracao": 2.3,
+    "atores": [ "Marcel", "Camilla" ],
+    "anoDeLancamento": 2012,
+    "emCartaz": true
+  },
+  {
+    "codigo": 2,
+    "titulo": "Harry Potter",
+    "duracao": 2.13,
+    "atores": [ "Adam Sandler", "Sandra Bulloc" ],
+    "anoDeLancamento": 2016,
+    "emCartaz": true
+  },
+  {
+    "codigo": 3,
+    "titulo": "Jogos Mortais",
+    "duracao": 1.45,
+    "atores": [ "João Matador", "Maria Medrosa", "Francisco Assassino" ],
+    "anoDeLancamento": 2001,
+    "emCartaz": false
+  },
+  {
+    "codigo": 4,
+    "titulo": "Matrix",
+    "duracao": 1.5,
+    "atores": [ "Steve Wonder", "Trinity", "Keanu Horrivis" ],
+    "anoDeLancamento": 1999,
+    "emCartaz": false
+  },
+  {
+    "codigo": 5,
+    "titulo": "Mad Max",
+    "duracao": 1.3,
+    "atores": [ "João Felipe", "Josué", "Katia" ],
+    "anoDeLancamento": 1985,
+    "emCartaz": true
+  },
+  {
+    "codigo": 6,
+    "titulo": "Filme Um",
+    "duracao": 2,
+    "atores": ["João", "José", "Maria"],
+    "anoLancamento": 2016,
+    "emCartaz": false
+  },
+  {
+    "codigo": 7,
+    "titulo": "Segundo filme",
+    "duracao": 1.5,
+    "atores": ["Paulo", "Pedro", "Daniel"],
+    "anoLancamento": 2019,
+    "emCartaz": true
+  },
+  {
+    "codigo": 8,
+    "titulo": "Filme 3",
+    "duracao": 2.15,
+    "atores": ["Cassio", "Anna", "Luis"],
+    "anoLancamento": 2013,
+    "emCartaz": false
+  },
+  {
+    "codigo": 9,
+    "titulo": "Filme 3",
+    "duracao": 2.15,
+    "atores": ["Joao", "Fernanda", "Caio"],
+    "anoLancamento": 2013,
+    "emCartaz": true
+  },
+  {
+    "codigo": 10,
+    "titulo": "Filme 6",
+    "duracao": 2,
+    "atores": ["Ingrid", "Anna", "Luis"],
+    "anoLancamento": 2013,
+    "emCartaz": false
+  }
+]
