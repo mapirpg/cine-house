@@ -1,8 +1,6 @@
 
 const catalogo = (require('./database/catalogo.json'))
 
-console.log('Bem vindo')
-
 adicionarFilme = (titulo, duracao, atores, anoDeLancamento, emCartaz) => {
     catalogo.push({
         codigo: catalogo.length,
@@ -54,3 +52,5 @@ console.log(listarTodosOsFilmes())
 
 
 
+console.log('!!!!!!!!!!!!!!!!!!')
+console.log('Bem vindo')
